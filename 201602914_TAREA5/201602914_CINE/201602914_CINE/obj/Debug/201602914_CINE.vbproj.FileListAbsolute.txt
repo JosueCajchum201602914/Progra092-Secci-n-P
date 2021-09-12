@@ -1,0 +1,20 @@
+C:\Users\SONY VAIO\AppData\Local\Temporary Projects\201602914_CINE\bin\Debug\201602914_CINE.exe.config
+C:\Users\SONY VAIO\AppData\Local\Temporary Projects\201602914_CINE\bin\Debug\201602914_CINE.exe
+C:\Users\SONY VAIO\AppData\Local\Temporary Projects\201602914_CINE\bin\Debug\201602914_CINE.pdb
+C:\Users\SONY VAIO\AppData\Local\Temporary Projects\201602914_CINE\bin\Debug\201602914_CINE.xml
+C:\Users\SONY VAIO\AppData\Local\Temporary Projects\201602914_CINE\obj\Debug\_201602914_CINE.Form1.resources
+C:\Users\SONY VAIO\AppData\Local\Temporary Projects\201602914_CINE\obj\Debug\_201602914_CINE.Resources.resources
+C:\Users\SONY VAIO\AppData\Local\Temporary Projects\201602914_CINE\obj\Debug\201602914_CINE.vbproj.GenerateResource.Cache
+C:\Users\SONY VAIO\AppData\Local\Temporary Projects\201602914_CINE\obj\Debug\201602914_CINE.exe
+C:\Users\SONY VAIO\AppData\Local\Temporary Projects\201602914_CINE\obj\Debug\201602914_CINE.xml
+C:\Users\SONY VAIO\AppData\Local\Temporary Projects\201602914_CINE\obj\Debug\201602914_CINE.pdb
+C:\Users\SONY VAIO\Documents\Visual Studio 2012\Projects\201602914_PARCIAL1\201602914_CINE\201602914_CINE\bin\Debug\201602914_CINE.exe.config
+C:\Users\SONY VAIO\Documents\Visual Studio 2012\Projects\201602914_PARCIAL1\201602914_CINE\201602914_CINE\obj\Debug\201602914_CINE.exe
+C:\Users\SONY VAIO\Documents\Visual Studio 2012\Projects\201602914_PARCIAL1\201602914_CINE\201602914_CINE\obj\Debug\201602914_CINE.xml
+C:\Users\SONY VAIO\Documents\Visual Studio 2012\Projects\201602914_PARCIAL1\201602914_CINE\201602914_CINE\obj\Debug\201602914_CINE.pdb
+C:\Users\SONY VAIO\Documents\Visual Studio 2012\Projects\201602914_PARCIAL1\201602914_CINE\201602914_CINE\bin\Debug\201602914_CINE.exe
+C:\Users\SONY VAIO\Documents\Visual Studio 2012\Projects\201602914_PARCIAL1\201602914_CINE\201602914_CINE\bin\Debug\201602914_CINE.pdb
+C:\Users\SONY VAIO\Documents\Visual Studio 2012\Projects\201602914_PARCIAL1\201602914_CINE\201602914_CINE\bin\Debug\201602914_CINE.xml
+C:\Users\SONY VAIO\Documents\Visual Studio 2012\Projects\201602914_PARCIAL1\201602914_CINE\201602914_CINE\obj\Debug\_201602914_CINE.Resources.resources
+C:\Users\SONY VAIO\Documents\Visual Studio 2012\Projects\201602914_PARCIAL1\201602914_CINE\201602914_CINE\obj\Debug\201602914_CINE.vbproj.GenerateResource.Cache
+C:\Users\SONY VAIO\Documents\Visual Studio 2012\Projects\201602914_PARCIAL1\201602914_CINE\201602914_CINE\obj\Debug\_201602914_CINE.CINE_PROGRA092.resources
